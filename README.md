@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there, I'm Alexandr - aka [intsdev][website] 👋
 
-<!--
-**intsdev/intsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on React Native app
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other enthusiasts
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="intsdev.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="intsdev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="intsdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="intsdev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<br />
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="intsdev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=intsdev&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://intsdev.github.io/
+[youtube]: https://www.youtube.com/channel/UCThJOOhQLedAt6pf_W_Te2g
+[instagram]: https://www.instagram.com/intsdev/
+[linkedin]: https://www.linkedin.com/in/intsdev
