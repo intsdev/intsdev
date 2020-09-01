@@ -2,8 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fintsdev.github.io)](https://intsdev.github.io)
 
-- 🔭 I’m currently working on React Native app
+<img align="right" alt="GIF" src="https://github.com/intsdev/intsdev/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
+- 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate with other enthusiasts
 
 ### Connect with me:
