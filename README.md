@@ -1,5 +1,7 @@
 ### Hi there, I'm Alexandr - aka [intsdev][website] 👋
 
+[![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fintsdev.github.io)](https://intsdev.github.io)
+
 - 🔭 I’m currently working on React Native app
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other enthusiasts
